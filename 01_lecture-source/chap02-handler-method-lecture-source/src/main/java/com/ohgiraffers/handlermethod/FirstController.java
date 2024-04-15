@@ -20,6 +20,8 @@ public class FirstController {
     @GetMapping("/regist")
     public void regist() {}         // view로 보임
 
+
+
     /* 필기.
      *   WebRequest 로 요청 파라미터 전달 받기
      *   WebRequest 라는 녀석은 HttpServletRequest 의 정보를 대부분 가지고 있는
